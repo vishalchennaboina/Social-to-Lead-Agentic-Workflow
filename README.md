@@ -6,7 +6,7 @@ This project implements a conversational AI agent for AutoStream, a SaaS product
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/vishalchennaboina/Social-to-Lead-Agentic-Workflow.git
 cd social-to-lead-agentic-workflow
 ```
 
